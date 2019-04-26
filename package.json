@@ -1,0 +1,29 @@
+{
+  "name": "query-selector-shadow-dom",
+  "version": "2.1.0",
+  "description": "Polymer wrapper around query-selector-shadow-dom",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PolymerEl/firebase-nest.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "Polymer"
+  ],
+  "author": "christophe.geiser@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolymerEl/query-selector-shadow-dom/issues"
+  },
+  "homepage": "https://github.com/PolymerEl/query-selector-shadow-dom#readme",
+  "dependencies": {
+    "query-selector-shadow-dom": "^0"
+  }
+}
